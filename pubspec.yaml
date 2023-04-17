@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   flutter_autoupdate: ^1.0.0
+  permission_handler: ^8.1.4+2
 
 dev_dependencies:
   flutter_lints: ^2.0.0
